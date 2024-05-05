@@ -1,4 +1,4 @@
-# Cuda
+# CUDA
 
 CUDA has been deeply fascinating me lately. 
 The fact that you can spin up millions of threads and drastically reduce execution times by massively parallelising sounds beautiful to me!
